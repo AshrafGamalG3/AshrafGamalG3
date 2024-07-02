@@ -14,8 +14,10 @@
 
 ---
 
-### Skills
+## Skills
+- **Programming Languages**: Java, Kotlin, Python
+- **Databases**: MySQL, SQLite, Firebase, RoomDatabase
+- **Others**: Data Structures, OOP (Object-Oriented Programming), SOLID Principles, RXJava, REST API, Retrofit
+- **Technologies**: Machine Learning, Android
+- **Tools**: Visual Studio Code, Jupyter Notebook, IntelliJ IDEA (Java), Android Studio
 
-- **Programming Languages:** Java, Kotlin, Python
-- **Databases:** MySQL, SQLite, Firebase
-- **Tools & Technologies:** Git, GitHub, Android SDK, REST API, Retrofit
